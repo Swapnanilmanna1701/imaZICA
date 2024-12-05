@@ -10,12 +10,12 @@ const Home =() => {
         <p>
           © Made with ❤️ by{" "}
           <a
-            href="http://anish7.me/"
+            href=""
             target="_blank"
             className="text-zinc-200 hover:underline"
             rel="noopener noreferrer"
           >
-            Anish
+            Swapnanil
           </a>{" "}
         </p>
       </div>
