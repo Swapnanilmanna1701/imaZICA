@@ -1,6 +1,6 @@
 "use client";
 import { Label } from "@/components/ui/label";
-import img1 from "@/components/ai.gif";
+import img1 from "@/components/22.jpeg";
 import { Textarea } from "@/components/ui/textarea";
 import { Slider } from "@/components/ui/slider";
 import { Button } from "@/components/ui/button";
